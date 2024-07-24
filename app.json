@@ -2,20 +2,20 @@
     "name": "Queen_Anita-V2",
     "description": "Simple WhatsApp Bot",
     "logo": "https://i.imgur.com/H4qeXwa.jpeg",
-    "keywords": ["DeeCeeXxx", "Anita-V2", "Queen_Anita"],
+    "keywords": ["᭧🦋⃟ʙ⃯ᴜ᷍ᴛͥ͢ᴛͣᴇ⃮ͫʀғꪲʟʏ̶᭄𝀋🌼", "💃ғᴀͥᴛͣʜͫ͢ɪ💎͟͢͞͠Q̶͟͢͠ᵘᵉ̶͟ᵉ̶͟ⁿ̶̶᭄͟͢͢࿂ ⃔", "᭧🦋⃟ʙ⃯ᴜ᷍ᴛͥ͢ᴛͣᴇ⃮ͫʀғꪲʟʏ̶᭄𝀋"],
     "success_url": "/",
     "stack": "container",
   
     "env": {
       "OWNER_NAME": {
         "description": "Name for Bot Owner",
-        "value": "Queen_Anita-V2",
+        "value": "💃ғᴀͥᴛͣʜͫ͢ɪ💎͟͢͞͠Q̶͟͢͠ᵘᵉ̶͟ᵉ̶͟ⁿ̶̶᭄͟͢͢࿂ ⃔",
         "required": true
       },
   
       "WELCOME": {
         "description": "put 'false' or 'true' to enable & disable WELCOME ",
-        "value": "false",
+        "value": "true",
         "required": false
       },
       "USER_IMAGES": {
@@ -31,7 +31,7 @@
       },
       "MENU": {
         "description": "choose 1, 2, 3",
-        "value": "1"
+        "value": "3"
       },
       "THUMB_IMAGE": {
         "description": "Thumbnail",
@@ -40,7 +40,7 @@
       "BOT_NAME": {
         "description": " NAME FOR BOT",
         "required": false,
-        "value": "Queen_Anita-V2"
+        "value": "᭧🦋⃟ʙ⃯ᴜ᷍ᴛͥ͢ᴛͣᴇ⃮ͫʀғꪲʟʏ̶᭄𝀋"
       },
       "TZ": {
         "description": "Put TIME_ZONE according to your location",
@@ -75,7 +75,7 @@
       "WAPRESENCE": {
         "description": "Fill the value: 'unavailable'(for nothing) | 'available'(for alwaysonline) | 'composing'(for typing) | 'recording' | 'paused' ",
         "required": false,
-        "value": "unavailable"
+        "value": "paused"
       },
       "AUTO_READ_STATUS": {
         "description": "Fill the value true if you want bot view your Statuses.",
@@ -94,7 +94,7 @@
       },
       "DISABLE_PM": {
         "description": "Make it 'false' if you wanna run bot in your pm (if MODE is Public)",
-        "value": "false",
+        "value": "true",
         "required": false
       },
       "PREFIX": {
@@ -103,24 +103,24 @@
       },
       "OWNER_NUMBER": {
         "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-        "value": "2349066528353"
+        "value": "+94762510493"
       },
       "SESSION_ID": {
         "description": "put your SESSION_ID here.",
-        "value": ""
+        "value": "eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiTU1JRjZCeXdocC9Ea3VtUlVXamlkSXBFenkzNFVpTkRURG9TdUVzdmsyOD0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiV1A5R2J5VEtQVnV4WFYxaytDQVN0U2xWbHRWamhkTHdhM0E4SjlKdFhoQT0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJFSjRtVlZmTkJicDVVaWsvYmk0V0hCUnIxbkZMd3IzYVh5WnhWV0FyNEU0PSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJFb01WY01GMkYxVnBGcGFRYlB3NjZtVEkxdklPdGpnWXY5Y0xrYUR6ZHkwPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6Im1PN3VuWSsvZFl5K0dGMmlxYUNvWW1Uam9VY2hWT1FvRnJPU0ZqY1NsMU09In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6InN1aWVldURRSEhxeXphV2pFVitZd0w5Mmh0Zkp1UnM1SHArMlFtU2NzMm89In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoicU1vNUVxWHNwL1ZlSHhGOUZSV3ErVFExYmFwSlV1Sk13Y3FZRjFBaHRWMD0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiVU5XSjF0UjhhdFpTTzd3aDMvNU1KM0ZmOHRiOUR0d1Y4SjV3b3piREZCRT0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6Im52OCtVRkU0TDBXQXNNMVBxRXl1RDB4ZlZ5Y1Vlc3QwQVpaR2hUWEF6SDBZWEZ3TWNFekFtNXY5NTNqWThhQzN2NzFSMXVsb0JQUHpneHRYdUNkWGpBPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6MTkwLCJhZHZTZWNyZXRLZXkiOiJGaVU1SFJMTkdIaFVEODVVR3d4ZnpPRUt0ekxRTE5KM0hXL1pjdk9GV2JFPSIsInByb2Nlc3NlZEhpc3RvcnlNZXNzYWdlcyI6W3sia2V5Ijp7InJlbW90ZUppZCI6Ijk0NzYyNTEwNDkzQHMud2hhdHNhcHAubmV0IiwiZnJvbU1lIjp0cnVlLCJpZCI6IjJBODg2MkFBRkU3MzBFRTdEN0ZFOENCMEMzMjcyNTZCIn0sIm1lc3NhZ2VUaW1lc3RhbXAiOjE3MjE4MDcyOTl9LHsia2V5Ijp7InJlbW90ZUppZCI6Ijk0NzYyNTEwNDkzQHMud2hhdHNhcHAubmV0IiwiZnJvbU1lIjp0cnVlLCJpZCI6IjY3MEIyOEUwNjcxOUMxRTgzMDUzRjIxQkJERURDNkY5In0sIm1lc3NhZ2VUaW1lc3RhbXAiOjE3MjE4MDcyOTl9XSwibmV4dFByZUtleUlkIjozMSwiZmlyc3RVbnVwbG9hZGVkUHJlS2V5SWQiOjMxLCJhY2NvdW50U3luY0NvdW50ZXIiOjEsImFjY291bnRTZXR0aW5ncyI6eyJ1bmFyY2hpdmVDaGF0cyI6ZmFsc2V9LCJkZXZpY2VJZCI6IktDVWNfVXc0UVd5T1B2VldHQlQyTUEiLCJwaG9uZUlkIjoiNWFiM2NlMWItMDIzZC00ZDkzLWFlMGEtM2ViZDI4ZWUzNDQxIiwiaWRlbnRpdHlJZCI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IjZUQ2t1dDB3V1U3R0NLTkxjVE03MUZ0VTJSOD0ifSwicmVnaXN0ZXJlZCI6dHJ1ZSwiYmFja3VwVG9rZW4iOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJiS1NSN0J5Qld5RkY3bVdoS1hZcjM2ZXV2Zm89In0sInJlZ2lzdHJhdGlvbiI6e30sInBhaXJpbmdDb2RlIjoiV1paTjlCNVYiLCJtZSI6eyJpZCI6Ijk0NzYyNTEwNDkzOjI0QHMud2hhdHNhcHAubmV0IiwibmFtZSI6Ii9Sw5hTMyBRVTMzw5EvIn0sImFjY291bnQiOnsiZGV0YWlscyI6IkNNT21sdHdFRUxUamdyVUdHQUVnQUNnQSIsImFjY291bnRTaWduYXR1cmVLZXkiOiJtTVdqeG8zc245ZUNSZ0VqZnJQL0p0QVdFdWtMdG9IcmJtbmRzZ2pvdkVBPSIsImFjY291bnRTaWduYXR1cmUiOiJUVmYzVTlOVU00TWsvcTRGWkVhRnZPMFhxWWwxcUJLZlhLRzB5WFJqT2RQMlZyaDhCWXJpLy9jN0VqM0xScTdSektLY1ZpQ3hpV0V3MDZQMGdZdnlCUT09IiwiZGV2aWNlU2lnbmF0dXJlIjoiUnlsaDBQOGs2TmhDRmx2Rm8rOWRCaTFOWmF0cno0a1lFM0w3K2MwMm10Vk8xanVtZStxRlZiamdjcktjTVhjaSt5ZitZQmlWcWJLZWFaVVVXeGUzZ0E9PSJ9LCJzaWduYWxJZGVudGl0aWVzIjpbeyJpZGVudGlmaWVyIjp7Im5hbWUiOiI5NDc2MjUxMDQ5MzoyNEBzLndoYXRzYXBwLm5ldCIsImRldmljZUlkIjowfSwiaWRlbnRpZmllcktleSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkJaakZvOGFON0ovWGdrWUJJMzZ6L3liUUZoTHBDN2FCNjI1cDNiSUk2THhBIn19XSwicGxhdGZvcm0iOiJzbWJhIiwibGFzdEFjY291bnRTeW5jVGltZXN0YW1wIjoxNzIxODA3Mjk3LCJteUFwcFN0YXRlS2V5SWQiOiJBQUFBQU1ZZSJ9"
       },
       "MODE": {
         "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
-        "value": "public"
+        "value": "private"
       },
       "PACK_NAME": {
         "description": "Put Sticker Pack_Name.",
-        "value": "Queen_Anita-V2",
+        "value": "᭧🦋⃟ʙ⃯ᴜ᷍ᴛͥ͢ᴛͣᴇ⃮ͫʀғꪲʟʏ̶᭄𝀋🌼",
         "required": false
       },
       "PACK_AUTHER": {
         "description": "Put Sticker Author_Name.",
-        "value": "A N I T A",
+        "value": "💃ғᴀͥᴛͣʜͫ͢ɪ💎͟͢͞͠Q̶͟͢͠ᵘᵉ̶͟ᵉ̶͟ⁿ̶̶᭄͟͢͢࿂ ⃔",
         "required": false
       }
     },
